@@ -1,6 +1,6 @@
 # Seattle Airbnb Analysis Project
 
-This repository contains a pet project that focuses on analyzing Airbnb houses in Seattle. The visualizations included in this project provide valuable insights like impact of location (zip codes) and the number of bedrooms on the prices earned.
+This folder contains a pet project that focuses on analyzing Airbnb houses in Seattle. The visualizations included in this project provide valuable insights like impact of location (zip codes) and the number of bedrooms on the prices earned.
 
 ## Project Overview
 
@@ -23,11 +23,6 @@ This repository contains a pet project that focuses on analyzing Airbnb houses i
 
 2. Explore the project files and directories.
 3. Open the visualizations in your preferred tool (e.g., Tableau).
-
-## Contributions
-
-Contributions are welcome! If you have suggestions, improvements, or new features to add, please feel free to submit a pull request.
-
 
 ## Acknowledgments
 
