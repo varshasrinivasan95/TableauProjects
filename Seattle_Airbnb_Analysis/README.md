@@ -1,0 +1,2 @@
+#### This is a pet project which shows analysis about airbnb houses in seattle. 
+#### The vizualizations are helpful in understanding the effect of location (zipcodes), number of bedrooms on the price earned  
